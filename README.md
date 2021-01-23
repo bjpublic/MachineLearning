@@ -31,7 +31,7 @@
 ## 저자 소개
 > 장철원
 
-> 운영 카페 https://cafe.naver.com/aifromstat
+> 저자 운영 카페 https://cafe.naver.com/aifromstat
 
 공부한 내용을 기록하고 나누는 것을 좋아하는 프리랜서
 
@@ -52,3 +52,5 @@
 
 
 ![선형대수와 통계학으로 배우는 머신러닝 with 파이썬](https://user-images.githubusercontent.com/21074282/105607959-6a2a0f00-5de4-11eb-827c-b08e197ab7f4.jpg)
+
+
