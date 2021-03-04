@@ -54,3 +54,5 @@
 ![선형대수와 통계학으로 배우는 머신러닝 with 파이썬](https://user-images.githubusercontent.com/21074282/105607959-6a2a0f00-5de4-11eb-827c-b08e197ab7f4.jpg)
 
 
+## 오탈자 정오표
+> https://cafe.naver.com/aifromstat/28
