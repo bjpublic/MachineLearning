@@ -1,4 +1,6 @@
 # 선형대수와 통계학으로 배우는 머신러닝 with 파이썬
+![선형대수와_통계학_머신러닝_파이썬](https://user-images.githubusercontent.com/21074282/105607749-043d8780-5de4-11eb-8811-73d80cf8f3e5.jpg)
+
 - 부제: 최적화 개념부터 텐서플로를 활용한 딥러닝까지
 - 저자: 장철원
 - 출간일: 2021년 1월 26일
@@ -13,8 +15,6 @@ https://cafe.naver.com/aifromstat/28
 - [yes24](http://www.yes24.com/Product/Goods/97032765)
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165920395&orderClick=LAG&Kc=)
 - [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262038358)
-
-![선형대수와_통계학_머신러닝_파이썬](https://user-images.githubusercontent.com/21074282/105607749-043d8780-5de4-11eb-8811-73d80cf8f3e5.jpg)
 
 <br><br><br>
 ## 책 소개
