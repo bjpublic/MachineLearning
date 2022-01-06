@@ -61,8 +61,7 @@ https://cafe.naver.com/aifromstat/28
 
 <br><br><br>
 ## 관련도서
-· 알고리즘 구현으로 배우는 선형대수 with 파이썬
-- [도서 보러가기](http://www.yes24.com/Product/Goods/105772247)
+- [알고리즘 구현으로 배우는 선형대수 with 파이썬](http://www.yes24.com/Product/Goods/105772247)
 
 <br><br><br>
 ## 오탈자 정오표
